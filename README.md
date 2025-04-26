@@ -1,4 +1,4 @@
-# ANU Tuition Academy - Academics
+# ANU Tuition Academy [COMPLETE WEBBIE] - Academics
 
 This project represents the **ANU Tuition Academy** website, showcasing the academic structure of the academy with details of its departments and courses. The site includes a list of departments (Arts, Science, and Commerce), each with a list of available courses. Each course is linked to a dedicated page containing detailed information about the course.
 
